@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+bin/
+obj/
+*.exe
+*.cbp
+*.depend
+*.layout
+
+run.bat
